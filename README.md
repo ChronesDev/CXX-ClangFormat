@@ -107,6 +107,26 @@ class MySecondClass
         doHere();
       }
     }
+    
+    // You can use these
+    {
+      // Use this for short lambdas inside of functions: []{ 
+      auto myLambda = []{ 
+        ...
+      };
+    }
   }
 }
+
+// Pointer on the left side
+int* MyPointer = nullptr;
+
+// Exception
+int *pointer, *pointer2;
+
+// Use this for long lambdas
+auto myLambda = []
+{
+  
+};
 ```
