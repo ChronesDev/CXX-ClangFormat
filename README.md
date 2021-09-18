@@ -1,8 +1,8 @@
 # CXX-ClangFormat
 The ClangFormat configuration for all Chrones projects
 
-**Why would you want to use that?**
-Every modern and professional projects needs guidelines on how the code is formatted and ect. Chrones provides it's own configuration file, which we think is the most clean and modern code style.
+**Why would you want to use that?** \
+Every modern and professional project needs guidelines on how the code is formatted and ect. Chrones provides it's own configuration file, which we think is the most clean and modern code style.
 
 # Guidelines
 
