@@ -1,11 +1,10 @@
 # Made By CXCubeHD
 
 Language: Cpp
-
 BasedOnStyle: WebKit
 AllowShortBlocksOnASingleLine: Always
 AllowShortFunctionsOnASingleLine: All
-AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
 AllowShortLambdasOnASingleLine: All
 BreakBeforeBraces: Allman
 CompactNamespaces: false
@@ -14,12 +13,10 @@ FixNamespaceComments: false
 NamespaceIndentation: All
 SpaceInEmptyParentheses: false
 SpacesInAngles: false
-
-
 ColumnLimit: 119
 ContinuationIndentWidth: 4
 IndentWidth: 4
 TabWidth: 8
 UseTab: Never
-
 PointerAlignment: Left
+IndentCaseLabels: true
